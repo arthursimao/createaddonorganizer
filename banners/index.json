@@ -13,7 +13,9 @@
       { "file": "DriveByWire1.png", "v": 1 },
       { "file": "drivebywiretypewriter2.png", "v": 1 },
       { "file": "petrolparts.png", "v": 1 },
-      { "file": "CreateConnected.png", "v": 1 }
+      { "file": "CreateConnected.png", "v": 1 },
+      { "file": "dreamsndesires1.png", "v": 1 },
+      { "file": "miscsandthings2.png", "v": 1 }
     ]
   },
   {
@@ -55,7 +57,13 @@
       { "file": "vista1.png", "v": 1 },
       { "file": "createbionics.png", "v": 1 },
       { "file": "slagnembers.png", "v": 1 },
-      { "file": "slagnemberstools.png", "v": 1 }
+      { "file": "slagnemberstools.png", "v": 1 },
+      { "file": "miscsandthings1.png", "v": 1 },
+      { "file": "fluidlogistics1.png", "v": 1 },
+      { "file": "sophisticatedcore1.png", "v": 1 },
+      { "file": "sophisticatedbackpacks1.png", "v": 1 },
+      { "file": "stuffnadditions1.png", "v": 1 },
+      { "file": "spawn.png", "v": 1 }
     ]
   },
   {
@@ -73,6 +81,7 @@
       { "file": "optics1.png", "v": 1 },
       { "file": "gearsNknetics1.png", "v": 1 },
       { "file": "extragauges1.png", "v": 1 },
+      { "file": "exposure1.png", "v": 1 },
       { "file": "farmersdelight1.png", "v": 1 }
     ]
   },
